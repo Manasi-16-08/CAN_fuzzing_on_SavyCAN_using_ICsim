@@ -1,0 +1,48 @@
+#Build directory
+build/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.user
+SavvyCAN
+
+# Generated files
+**/moc_*
+**/ui_*.h
+**/qrc_*.cpp
+SavvyCAN.pro.user.*
+.qmake.stash
+Makefile
+
+# Editor files
+*.code-workspace
+SavvyCAN.pro.qtds
+.xcode
+SavvyCAN.xcodeproj
+.vscode
